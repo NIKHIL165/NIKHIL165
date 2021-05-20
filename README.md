@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NIKHIL165
+- 👋 Hi, I’m @NIKHILTECH
 - 👀 I’m interested in .Web Development..
 - 🌱 I’m currently learning .Artificial Intelligence..
 - 💞️ I’m looking to collaborate on ..Github.
