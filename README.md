@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NIKHILTECH
-- 👀 I’m interested in .Web Development..
-- 🌱 I’m currently learning .Artificial Intelligence..
-- 💞️ I’m looking to collaborate on ..Github.
-- 📫 How to reach me ..www.nikhiltech.in/contact.
+- 👀 I’m interested in Web Development..
+- 🌱 I’m currently learning Artificial Intelligence..
+- 💞️ I’m looking to collaborate on AI Technology.
+- 📫 How to reach me www.nikhiltech.in/contact.
 
 <!---
 NIKHIL165/NIKHIL165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
